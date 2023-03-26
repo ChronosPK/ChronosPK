@@ -4,6 +4,8 @@
 Student, aspiring ethical hacker, CTF player, inquisitive curious. 
 ```
 
+<a href="https://chronossec.site/s/whoami/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/About%20Me-chronossec.site-2F26B3?style=for-the-badge&logo=github"></a>
+
 <br><br>
 
 ## Cybersecurity Profiles
@@ -20,9 +22,19 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
   <a href="https://chronossec.site/s/"><img src="./icons/chronossec.svg" width="60" height="60"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://app.cyber-edu.co/user/89f41bb0-25ea-11ec-85ba-b5c17388972b"><img src="./icons/cyberedu.png" width="60" height="60"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.picoctf.org/users/Radupk"><img src="./icons/picoctf.png" width="60" height="60"></a>
 </p>
 
 <br><br>
+
+
+## Sponsor me ♥
+
+<a href="https://www.buymeacoffee.com/chronossec"><img src="https://img.buymeacoffee.com/button-api/?text=Hope you enjoy my content!&emoji=♥️&slug=chronossec&button_colour=4034c9&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
+<br><br>
+
 
 ## Main Github Projects
 
@@ -50,6 +62,12 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 <br><br>
 
 ## Main projects on my personal website
-
-[<img src="./icons/penetration_testing_icon.png" alt="Pentest Enumeration Cheat Sheet" width="100" height="100"/>](https://chronossec.site/s/cheatsheets/pentest-enumertation)
-
+<p>
+  <a href="https://chronossec.site/s/cheatsheets/pentest-enumertation"><img src="./icons/penetration_testing_icon.png" width="100" height="100"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chronossec.site/s/cheatsheets/learning-resources"><img src="./icons/bookmark_icon_for_resources.png" width="100" height="100"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chronossec.site/s/writeups/cert-prep/"><img src="./icons/oscp.png" width="100" height="100"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chronossec.site/SMCC_2023_development/"><img src="./icons/SMCC-circle.png" width="100" height="100"/></a>
+</p>
