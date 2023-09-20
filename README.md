@@ -32,6 +32,12 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 ## Sponsor me ♥
 
 <a href="https://www.buymeacoffee.com/chronossec" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Hope you enjoy my content!&emoji=♥️&slug=chronossec&button_colour=4034c9&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sponsors/ChronosPK">
+  <img src="https://img.shields.io/badge/Sponsor-ChronosPK-blue.svg" alt="Sponsor ChronosPK" width="300">
+</a>
+
+
 
 <br><br>
 
