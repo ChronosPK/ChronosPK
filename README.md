@@ -51,18 +51,15 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=SMCC-2023&theme=dark&hide_border" align = "center" />
 </a> 
 <br><br>
-<a href = "https://github.com/ChronosPk/APET" target="_blank">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" />
-</a> 
-<a href = "https://github.com/ChronosPk/SMCC-2023_infrastructure" target="_blank">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=SMCC-2023_infrastructure&theme=dark&hide_border" align = "center" />
-</a> 
-<br><br>
 <a href = "https://github.com/ChronosPk/WiFI_locally_extract_passwords" target="_blank">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" />
 </a> 
 <a href = "https://github.com/ChronosPk/port-grabber" target="_blank">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=port-grabber&theme=dark&hide_border" align = "center" />
+</a> 
+<br><br>
+<a href = "https://github.com/ChronosPk/APET" target="_blank">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" />
 </a> 
 
 <br><br>
