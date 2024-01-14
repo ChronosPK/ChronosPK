@@ -8,6 +8,17 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 
 <br><br>
 
+## CTFs I created
+
+<p>
+  <a href="https://chronossec.site/SMCC_2023_DEV/" target="_blank"><img src="./icons/SMCC-circle.png" width="60" height="60"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://smcc2024.com" target="_blank"><img src="./icons/SMCC-circle.png" width="60" height="60"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br><br>
+
 ## Cybersecurity Profiles
 
 <p>
