@@ -13,7 +13,7 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 <p>
   <a href="https://chronossec.site/SMCC_2023_DEV/" target="_blank"><img src="./icons/SMCC-circle.png" width="60" height="60"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https:/ctf.chronossec.site" target="_blank"><img src="./icons/CSCTF-logo-2.2.png" width="60" height="60"></a>
+  <a href="https://ctf.chronossec.site" target="_blank"><img src="./icons/CSCTF-logo-2.2.png" width="60" height="60"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
