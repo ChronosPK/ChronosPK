@@ -72,7 +72,7 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 <a href = "https://github.com/ChronosPk/WiFI_locally_extract_passwords" target="_blank">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" />
 </a> 
-<a href = "https://github.com/ChronosPk/APET" target="_blank">
+<a href = "https://github.com/ChronosPk/TAPE" target="_blank">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" />
 </a> 
 
