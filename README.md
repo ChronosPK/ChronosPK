@@ -65,9 +65,6 @@ Student, aspiring ethical hacker, CTF player, inquisitive curious.
 <a href = "https://github.com/ChronosPk/pentesting-cheatsheets" target="_blank">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=pentesting-cheatsheets&theme=dark&hide_border" align = "center" />
 </a>
-<a href = "https://github.com/ChronosPk/port-grabber" target="_blank">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=port-grabber&theme=dark&hide_border" align = "center" />
-</a> 
 <br><br>
 <a href = "https://github.com/ChronosPk/WiFI_locally_extract_passwords" target="_blank">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" />
