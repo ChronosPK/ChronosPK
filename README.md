@@ -61,11 +61,11 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 ## Main Github Projects
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=CSCTF-2024&theme=dark&hide_border" align = "center" height=150/>
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=SMCC-2023&theme=dark&hide_border" align = "center" height=150/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=CSCTF-2024&theme=dark&hide_border" align = "center" height=100/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=SMCC-2023&theme=dark&hide_border" align = "center" height=100/>
 <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" height=150/>
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" height=150/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" height=100/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" height=100/>
 </a>
 </p>
 
