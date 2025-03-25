@@ -9,11 +9,12 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 <br><br>
 
 ## GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChronosPk&show_icons=true&theme=dark" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChronosPk&layout=compact&theme=dark" alt="Top Languages" /> 
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chronospk" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chronospk&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br><br>
 
@@ -60,11 +61,11 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 ## Main Github Projects
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=CSCTF-2024&theme=dark&hide_border" align = "center" />
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=SMCC-2023&theme=dark&hide_border" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=CSCTF-2024&theme=dark&hide_border" align = "center" height=150/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Chronos-Security&repo=SMCC-2023&theme=dark&hide_border" align = "center" height=150/>
 <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" />
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=WiFI_locally_extract_passwords&theme=dark&hide_border" align = "center" height=150/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ChronosPk&repo=APET&theme=dark&hide_border" align = "center" height=150/>
 </a>
 </p>
 
