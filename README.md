@@ -4,7 +4,7 @@
 Aspire, be curious, learn, help, teach, improve, innovate.
 ```
 
-<br><br>
+<br>
 
 ## GitHub stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,7 +16,7 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 
 <br><br>
 
-## CTFs I created
+## CTFs created
 
 <p align="center">
   <a href="https://mirachron.com" target="_blank"><img src="./icons/SMCC-circle.png" width="60" height="60"></a>
@@ -25,7 +25,7 @@ Aspire, be curious, learn, help, teach, improve, innovate.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br><br>
+<br>
 
 ## Cybersecurity Profiles
 
@@ -43,15 +43,15 @@ Aspire, be curious, learn, help, teach, improve, innovate.
   <a href="https://play.picoctf.org/users/Radupk" target="_blank"><img src="./icons/picoctf.png" width="60" height="60"></a>
 </p>
 
-<br><br>
+<br>
 
 ## Applications in Development
 
 <p>
   <a href = "https://piece.mirachron.com" align = "center">Mirachron - Pentesting Interactive & Exhaustive Command Explorer</a>
-<br><br>
+</p>
 
-<br><br>
+<br>
 
 ## Main Github Projects
 
@@ -64,7 +64,7 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 </a>
 </p>
 
-<br><br>
+<br>
 
 ## Sponsor Me
 
