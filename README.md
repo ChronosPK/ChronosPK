@@ -7,10 +7,10 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 <br>
 
 ## GitHub stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chronospk" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chronospk&layout=compact&langs_count=8&card_width=320" />
 </a>
 
@@ -69,7 +69,11 @@ Aspire, be curious, learn, help, teach, improve, innovate.
 ## Sponsor Me
 
 <p align="center">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Hope%20you%20enjoy%20my%20content%20&emoji=%E2%99%A5%EF%B8%8F&slug=chronossec&button_colour=4034c9&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
+  <a href="https://buymeacoffee.com/chronossec">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Hope%20you%20enjoy%20my%20content%20&emoji=%E2%99%A5%EF%B8%8F&slug=chronossec&button_colour=4034c9&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sponsor-ChronosPK-blue.svg" alt="Sponsor ChronosPK" width="300">
+  <a href="https://github.com/sponsors/ChronosPK">
+    <img src="https://img.shields.io/badge/Sponsor-ChronosPK-blue.svg" alt="Sponsor ChronosPK" width="300">
+  </a>
 </p>
