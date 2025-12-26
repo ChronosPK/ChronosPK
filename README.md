@@ -53,14 +53,16 @@ I have successfully organized multiple large-scale CTF competitions, engaging ov
 
 ## 💻 Featured Projects
 
-Here are some of my best public repositories and tools.
+Here are some of my most prominent public repositories, ranging from large-scale CTF infrastructure to offensive security tools.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| <a href="https://github.com/ChronosPK/CSCTF-2025-challenges"><b>CSCTF 2025</b></a> | **International Flagship Event**<br>Challenges from our largest competition yet: 550+ participants & €8,000+ in prizes. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| <a href="https://github.com/Chronos-Security/CSCTF-2024"><b>CSCTF 2024</b></a> | **National CTF Infrastructure**<br>Official repository for the 2024 edition. <br>Hosted 250+ participants from major universities. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CTF](https://img.shields.io/badge/CTF-Event-orange?style=flat-square) |
+| <a href="https://github.com/ChronosPK/pentesting-cheatsheets"><b>Pentesting Cheatsheets</b></a> | **Educational Resource**<br>Comprehensive, diagram-rich guide for offensive security commands and techniques. | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Edu](https://img.shields.io/badge/Education-LightBlue?style=flat-square) |
 | <a href="https://github.com/ChronosPK/APET"><b>APET</b></a> | **Automated Pentesting Enumeration Tool**<br>Advanced scripts to streamline the enumeration phase of penetration tests. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell-Script-green?style=flat-square) |
 | <a href="https://github.com/ChronosPK/WiFI_locally_extract_passwords"><b>WiFi Password Extractor</b></a> | **Local Forensic Tool**<br>Extract all saved Wi-Fi passwords from local Windows & Linux machines instantly. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Forensics-Red-red?style=flat-square) |
-| <a href="https://github.com/Chronos-Security/CSCTF-2024"><b>CSCTF 2024</b></a> | **CTF Infrastructure**<br>Official repository for the 2024 Chronos Security CTF challenges and resources. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CTF](https://img.shields.io/badge/CTF-Event-orange?style=flat-square) |
-| <a href="https://github.com/Chronos-Security/SMCC-2023"><b>SMCC 2023</b></a> | **CTF Infrastructure**<br>Archive of challenges and setup from the Sibiu Military Cyber Challenge. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| <a href="https://github.com/Chronos-Security/SMCC-2023"><b>SMCC 2023</b></a> | **The Origin Story**<br>Archive of challenges from the Sibiu Military Cyber Challenge, the event that founded Chronos. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 <br>
 
