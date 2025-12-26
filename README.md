@@ -40,13 +40,11 @@ I have successfully organized multiple large-scale CTF competitions, engaging ov
 | **SMCC 2023** | **Founder** | Sibiu Military Cyber Challenge - The event that started it all. |
 
 <p align="center">
-  <a href="https://www.chronos-security.ro/ctf" target="_blank">
-    <img src="./icons/SMCC-circle.png" width="60" height="60" alt="SMCC Logo">
-  </a>
+  <a href="https://www.chronos-security.ro/ctf" target="_blank"><img src="./icons/SMCC-circle.png" width="60" height="60" alt="SMCC Logo"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.chronos-security.ro/ctf" target="_blank">
-    <img src="./icons/CSCTF-logo-2.2.png" width="60" height="60" alt="CSCTF Logo">
-  </a>
+  <a href="https://www.chronos-security.ro/ctf" target="_blank"><img src="./icons/CSCTF-logo-2.2.png" width="60" height="60" alt="CSCTF 2024 Logo"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.chronos-security.ro/ctf" target="_blank"><img src="./icons/csctf.png" width="60" height="60" alt="CSCTF 2025 Logo"></a>
 </p>
 
 <br>
@@ -81,11 +79,7 @@ Here are some of my most prominent public repositories, ranging from large-scale
 If you enjoy my tools or CTF challenges, consider supporting the development!
 
 <p align="center">
-  <a href="https://buymeacoffee.com/chronossec" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
+  <a href="https://buymeacoffee.com/chronossec" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sponsors/ChronosPK" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-ChronosPK-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub">
-  </a>
+  <a href="https://github.com/sponsors/ChronosPK" target="_blank"><img src="https://img.shields.io/badge/Sponsor-ChronosPK-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub"></a>
 </p>
